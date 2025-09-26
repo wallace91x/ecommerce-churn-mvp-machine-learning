@@ -3,7 +3,7 @@
 Pipeline reprodutível para predição de churn: ingestão via `kagglehub`, pré-processamento com `Pipeline/ColumnTransformer`, comparação de modelos (KNN, DecisionTree, NaiveBayes, SVM), ajuste de limiar (F2) e ROI paramétrico (C, V, R).
 
 **Notebook (abrir no Colab):**  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bjbCIJo9XcMgTUq572rrQWiIRr9uaKsF#scrollTo=dlegMXzaNjDX))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bjbCIJo9XcMgTUq572rrQWiIRr9uaKsF#scrollTo=dlegMXzaNjDX)
 
 ## Como executar
 1. Abra o link do Colab acima (ou rode localmente com `pip install -r requirements.txt`).
