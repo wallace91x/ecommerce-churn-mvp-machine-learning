@@ -14,4 +14,3 @@ Pipeline reprodutível para predição de churn: ingestão via `kagglehub`, pré
 - TESTE: **AUC≈0,981**, **Acc≈0,950**, **Prec≈0,805**, **Recall≈0,932**, **Spec≈0,954**.
 - ROI (exemplo): **C=R$3,50**, **V=R$260**, **R=25%** → **Lucro ≈ R$10.735**.
 
-## Estrutura sugerida
